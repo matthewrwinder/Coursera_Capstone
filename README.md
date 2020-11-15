@@ -1,2 +1,2 @@
-# coursera_capstone_project
+# coursera_capstone
 Training course repository
